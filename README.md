@@ -116,7 +116,7 @@ To run the Streamlit app locally, use the following command:
 streamlit run dashboard/bike_sharing_analysis.py
 ```
 
-Alternatively, you can access the Streamlit app online [here](https://nabiil-najm266-bike-sharing.streamlit.app).
+Alternatively, you can access the Streamlit app online [here](https://bike-sharing-nabil-najmudin.streamlit.app).
 
 ## Contact Information
 
