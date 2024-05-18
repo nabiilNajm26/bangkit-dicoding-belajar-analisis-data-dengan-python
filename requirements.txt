@@ -1,5 +1,5 @@
-numpy
-pandas
-matplotlib
-seaborn
-streamlit
+numpy==latest_version
+pandas==latest_version
+matplotlib==latest_version
+seaborn==latest_version
+streamlit==latest_version
