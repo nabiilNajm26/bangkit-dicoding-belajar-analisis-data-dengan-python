@@ -23,11 +23,11 @@ The project includes data wrangling, exploratory data analysis (EDA), and advanc
 To run the analyses, you need the following Python packages:
 
 ```bash
-numpy==1.20.1
-pandas==1.2.3
-matplotlib==3.3.4
-seaborn==0.11.1
-streamlit==0.80.0
+numpy==1.26.0
+pandas==2.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+streamlit==1.25.0
 ```
 
 Install the required packages using:
